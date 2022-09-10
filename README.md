@@ -1,2 +1,0 @@
-# pajak
-program pajak
